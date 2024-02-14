@@ -1,0 +1,55 @@
+h1{color:black}
+
+body {
+ background-color: #fff;
+ color:#fff'
+ 
+ }
+
+.ft::after{
+   content:'';
+  clear: both;
+  display:table;
+  
+}
+#foliumStyle{
+  background-color:#fff;
+  color:black;
+
+
+}
+.hh{
+color:red;
+
+}
+
+
+.ft-1{
+   float:left; 
+   display:inline-block;
+   width: 50%;
+
+}
+.ft-2{
+   float:left;
+   margin-top:5%;
+   margin-left:5%;
+   display:inline-block;
+   width: 45%;
+
+}
+.grid-container {
+  
+  margin-top:10%;
+  display:grid;
+  grid-template-columns: 50% 50%;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+.grid-item {
+
+  color:#fff;
+  padding: 20px;
+  font-size: 30px;
+ 
+
+}
