@@ -152,6 +152,7 @@ m.save("map.html")
 
 
 app = Dash(__name__)
+server = app.server
 
 
 colorscale2= [
