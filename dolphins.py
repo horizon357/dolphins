@@ -234,7 +234,8 @@ app.layout = html.Div([
                     ],className='grid-item'),
                 html.Div([
                     html.P('The graph shows dolphins and whales population living in captivity during last status update(2016) year'
-                            ' in the American states acrros USA, which are diffrent in color due to the different number of dolphins(species Bottlenose) in each of those states.'
+                            ' in the American states acrros USA. Many aquariums and marine parks argue that keeping dolphins and whales in captivity provides an opportunity for education and public awareness about marine life, conservation, and environmental issues. Visitors can learn about these animals up close and develop an appreciation for ocean ecosystems and the need for conservation efforts.'
+                            'Dolphins and whales in captivity offer researchers and scientists the opportunity to study these animals in controlled environments. Researchers can study their behavior, physiology, communication, cognition, and other aspects that are difficult to observe in the wild. This research contributes to scientific knowledge about marine mammals and can inform conservation efforts.'
                             'The largest number of dolphins is in the possession of the U.S. navy base. This group of dolphins is trained daily for the needs of the army and emergency situations.Additionally,'
                             ' the Navy also uses marine mammals for tasks such as locating lost equipment and divers, as well as assisting with search and rescue operations. These animals are also capable of detecting intruders and swimmers in restricted areas, which can help enhance the security of Navy installations and other critical infrastructure.')
                    
